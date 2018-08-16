@@ -9,5 +9,6 @@ function forLoop(array) {
   return array;
 }
 function whileLoop(n) {
-  console.log(`n--`)
+  console.log(n--);
+  return 'done';
 }
