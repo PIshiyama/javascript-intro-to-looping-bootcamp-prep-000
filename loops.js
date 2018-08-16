@@ -18,3 +18,6 @@ var i = 0;
 function incrementalVariable() {
   i = i + 1;
 }
+function doWhileLoop(array) {
+  
+}
